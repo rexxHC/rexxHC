@@ -21,7 +21,7 @@
 
   ### 🔭 What I'm Learning Next
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go, python,sql,react" />
+    <img src="https://skillicons.dev/icons?i=rust,go,python,sql,react" />
   </a>
 
   <br/>
