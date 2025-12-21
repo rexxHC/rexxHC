@@ -1,13 +1,12 @@
 <div align="center">
 
-  # Hi there! 👋
+  # Hello!
 
-  ### I'm a Developer currently expanding my skills in Systems & Mobile Dev.
+  ### I'm currently a student and an enthusiast building my skills
 
   ---
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rexxHC&show_icons=true&theme=dracula&hide_border=true" alt="github stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxHC&layout=compact&theme=dracula&hide_border=true" alt="top languages" />
   </p>
 
@@ -31,10 +30,7 @@
 
   ### 🤝 Connect with me
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:YOUR_EMAIL@gmail.com">
+    <a href="mailto:tawfiquetazwar@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
