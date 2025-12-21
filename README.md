@@ -12,16 +12,16 @@
 
   ---
 
-  ### 🛠️ My Tech Stack
+  ### 🛠️ Currently Learning
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,react,html,js,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,js,css" />
   </a>
 
   <br/><br/>
 
   ### 🔭 What I'm Learning Next
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go" />
+    <img src="https://skillicons.dev/icons?i=rust,go, python,sql,react" />
   </a>
 
   <br/>
