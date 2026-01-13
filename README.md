@@ -4,8 +4,6 @@
 
   ---
 
-  ---
-
   ### 🛠️ Currently Learning
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,js,css" />
