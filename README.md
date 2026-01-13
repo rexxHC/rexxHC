@@ -1,14 +1,8 @@
 <div align="center">
 
-  # Hello!
-
-  ### I'm currently a student and an enthusiast building my skills
+  # You do not get to 4 github followers without making some enemies
 
   ---
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexxHC&layout=compact&theme=dracula&hide_border=true" alt="top languages" />
-  </p>
 
   ---
 
