@@ -1,6 +1,6 @@
 <div align="center">
 
-  # You do not get to 4 github followers without making some enemies
+  # You don't get to 4 github followers without making some enemies
 
   ---
 
